@@ -34,6 +34,7 @@ programa
                     pare
                 caso 2:
                     inteiro quarto
+                    	ler_dados(falso)
     					escreva("Digite o número do quarto: ")
     					leia(quarto)
     					se(valida_numero_quarto(quarto)){
@@ -120,7 +121,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1590; 
+ * @POSICAO-CURSOR = 1155; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
